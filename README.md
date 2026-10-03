@@ -23,11 +23,11 @@
 <tr>
 <td width="60%" valign="top">
 
-**Shaddy**, Here — a final-year Computer Engineering student focused on backend development.
+**faye**, Here — a study ai and founder 
 
-I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
+I enjoy building scalable, production-ready improving my understanding of real-world problems.
 
-Currently, I'm learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and Redis**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+Currently, I'm learning **AI, ML, **, while sharpening my problem-solving skills .
 
 My goal is simple: write clean code, build reliable software, and grow into a software engineer who creates systems that last.
 

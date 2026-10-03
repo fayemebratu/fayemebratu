@@ -3,16 +3,16 @@
   <img src="assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
+<h1 align="center">Hi 👋, Faye Mebratu</h1>
 
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 <p align="center">
-  <code>Just Code Nig</code>
+  <code>Founder</code>
 </p>
 
 <p align="center">
-  Building reliable backend systems with clean architecture and scalable solutions.
+
 </p>
 
 ---

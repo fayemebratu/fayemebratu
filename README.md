@@ -1,6 +1,6 @@
 <!-- Banner: save the top hands image as assets/banner.png in your repo -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
+  <img src="/banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, Faye Mebratu</h1>
@@ -35,7 +35,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <td width="40%" align="center" valign="middle">
 
 <!-- Side image: save the astronaut image as assets/about.png -->
-<img src="assets/about.png" alt="About" width="260" />
+<img src="/about.png" alt="About" width="260" />
 
 </td>
 </tr>
